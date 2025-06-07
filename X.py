@@ -984,6 +984,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-TAMBAHIN SPAM PAIRING CODE WHATSAPP DAN SPAM SMS WHATSAPP
